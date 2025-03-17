@@ -1,0 +1,22 @@
+[
+    { "name": "Ordinateur portable", "price": 999, "category": "Électronique", "stock": 10 },
+    { "name": "Clavier", "price": 50, "category": "Électronique", "stock": 20 },
+    { "name": "Souris sans fil", "price": 30, "category": "Électronique", "stock": 15 },
+    { "name": "Écran 24 pouces", "price": 150, "category": "Électronique", "stock": 5 },
+    { "name": "Imprimante", "price": 200, "category": "Électronique", "stock": 8 },
+
+    { "name": "Chaise de bureau", "price": 70, "category": "Mobilier", "stock": 5 },
+    { "name": "Bureau en bois", "price": 300, "category": "Mobilier", "stock": 2 },
+    { "name": "Armoire de rangement", "price": 150, "category": "Mobilier", "stock": 4 },
+    { "name": "Lampe de bureau", "price": 40, "category": "Mobilier", "stock": 12 },
+
+    { "name": "Cahier 100 pages", "price": 3, "category": "Papeterie", "stock": 50 },
+    { "name": "Stylo bleu", "price": 1, "category": "Papeterie", "stock": 100 },
+    { "name": "Trousse scolaire", "price": 15, "category": "Papeterie", "stock": 30 },
+    { "name": "Carnet de notes", "price": 8, "category": "Papeterie", "stock": 25 },
+
+    { "name": "Casque audio", "price": 80, "category": "Accessoires", "stock": 7 },
+    { "name": "Chargeur USB-C", "price": 25, "category": "Accessoires", "stock": 10 },
+    { "name": "Support téléphone", "price": 10, "category": "Accessoires", "stock": 40 },
+    { "name": "Sac à dos pour PC", "price": 45, "category": "Accessoires", "stock": 18 }
+]
