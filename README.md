@@ -43,9 +43,18 @@ cet exrcice consiste à écrire un programme fonctionnel qui clacule  le Total T
 - La méthode .map() calcule le TTC pour chaque produit en multipliant son prix HT par 1.25 (pour appliquer la TVA de 25%).
 - La méthode .reduce() additionne les montants TTC obtenus.
 
-## Exercice6 : Traitement des données
+## Exercice6 : Application de Gestion des Produits
 # Description : 
 L'objectif est d'effectuer diverses opérations sur l'ensemble de données, telles que le filtrage des produits par catégorie, le calcul des prix totaux et la recherche des produits en faible stock.
-# Explication : 
+
+ # Fonctionnalités : 
+- Chargement du fichier JSON: Permet de charger un fichier contenant les données des produits.
+- Affichage structuré des produits: Présentation sous forme de tableau avec les colonnes suivantes : Nom du produit, Prix, Catégorie, et Stock.
+=Tri des produits: Trier les produits par prix ou par stock.
+-Filtrage par catégorie: Affiche uniquement les produits appartenant à une catégorie spécifique.
+-Calcul du prix total des produits: Calcule et affiche la somme des prix de tous les produits.
+-Recherche des produits en faible stock : Affiche les produits ayant un stock inférieur à 5 unités(la seuil).
+- Dashboard avec Chart.js : Affiche des graphiques interactifs pour visualiser les données des produits (par exemple : répartition par catégorie, niveaux de stock, etc.).
+
 
 
